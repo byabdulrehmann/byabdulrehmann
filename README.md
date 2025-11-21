@@ -2,40 +2,40 @@
 
  # Hi, I'm Abdul Rehman 👋    
 
-🎓 **Data Science Grauate | Data Analyst | AI Enthusiast | Web Automation Expert**  
+🎓 **Data Science Grauate | Data Analyst | AI Enthusiast | AI Automation Expert**  
 
 </div>
 
 💡 I specialize in **data analysis, dashboards, machine learning, and automation**.  
 🚀 I enjoy solving real-world problems by transforming raw data into **actionable insights** and building intelligent systems.  
 🌱 Currently exploring, **OpenAI APIs**, and **real-time data pipelines**.  
-💬 Ask me about anything related to **Python, ML models, LLMs, or Web Automation**.
+💬 Ask me about anything related to **Python, ML models, LLMs, or AI Automation**.
 
 
 ## 🎯 Expertise
 
 - 📊 **Data Analysis** – uncovering insights from complex datasets  
 - 📈 **Dashboards** – building interactive reports with Power BI & Python  
-- 🤖 **AI Enthusiast** – passionate about artificial intelligence & deep learning  
-- ⚡ **Web Automation** – developing bots & automation scripts for efficiency  
+- 🤖 **AI Enthusiast** – passionate about artificial intelligence & agents  
+- ⚡ **AI Automation** – developing bots & automation scripts for efficiency  
 - 🧠 **Data Science** – machine learning, predictive modeling & applied research  
 
 
 ## 🛠️ Tech Stack
 
 **👨‍💻 Languages:**  
-Python | SQL | R | JavaScript | HTML | CSS | Java  
+Python | SQL | R | n8n | JavaScript | HTML | CSS | Java  
 
 **📚 Libraries & Frameworks:**  
 Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn  
-TensorFlow | PyTorch | Keras | OpenCV | OpenAI API  
+TensorFlow | PyTorch | Keras | OpenCV | OpenAI API | Playwright
 FastAPI | Flask | Streamlit | BeautifulSoup | Selenium | Scrapy  
 
 **🗄️ Databases:**  
  MySQL | MongoDB  
 
 **🛠️ Tools:**  
- Jupyter | Google Colab | VS Code | Linux | Git   
+ Jupyter | Google Colab | VS Code | Linux | Git | Kaggle
 
 
 ## 🌟 Highlighted Projects
