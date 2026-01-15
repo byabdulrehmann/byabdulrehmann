@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 **👨‍💻 Languages:**  
-Python | SQL | R | n8n | JavaScript | HTML | CSS | Java  
+Python | SQL | R | n8n | JavaScript | HTML | CSS   
 
 **📚 Libraries & Frameworks:**  
 Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn  
