@@ -2,7 +2,7 @@
 
  # Hi, I'm Abdul Rehman 👋    
 
-🎓 **Data Science Grauate | Data Analyst | AI Enthusiast | AI Automation Expert**  
+🎓 **AI Engineer | AI Automation | Data Scientist | Ex-Data Analyst**  
 
 </div>
 
@@ -14,11 +14,11 @@
 
 ## 🎯 Expertise
 
-- 📊 **Data Analysis** – uncovering insights from complex datasets  
-- 📈 **Dashboards** – building interactive reports with Power BI & Python  
-- 🤖 **AI Enthusiast** – passionate about artificial intelligence & agents  
-- ⚡ **AI Automation** – developing bots & automation scripts for efficiency  
-- 🧠 **Data Science** – machine learning, predictive modeling & applied research  
+- 🤖 **AI Engineer** – developing LLM-powered applications, AI agents, and intelligent software
+- ⚡ **AI Automation** – building workflow automations with OpenAI APIs, n8n, FastAPI, and Python
+- 🧠 **Machine Learning** – training and deploying models for real-world AI applications
+- 📊 **Data Analytics** – extracting meaningful insights from structured and unstructured data
+- 📈 **Business Intelligence** – creating interactive dashboards and KPI reports using Power BI and Python 
 
 
 ## 🛠️ Tech Stack
@@ -32,7 +32,7 @@ TensorFlow | PyTorch | Keras | OpenCV | OpenAI API | Playwright
 FastAPI | Flask | Streamlit | BeautifulSoup | Selenium | Scrapy  
 
 **🗄️ Databases:**  
- MySQL | MongoDB  
+ MySQL | Postgre SQL | Supabase
 
 **🛠️ Tools:**  
  Jupyter | Google Colab | VS Code | Linux | Git | Kaggle
