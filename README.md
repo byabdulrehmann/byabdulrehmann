@@ -10,6 +10,7 @@
 🚀 I enjoy solving real-world problems by transforming raw data into **actionable insights** and **building intelligent systems**.  
 🌱 Currently exploring, **OpenAI APIs**, and **real-time data pipelines**.  
 💬 Ask me about anything related to **Python, ML models, LLMs, or AI Automation**.
+📬 Reach me at **abdulrehman11403@gmail.com**.
 
 
 ## 🎯 Expertise
