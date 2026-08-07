@@ -6,8 +6,8 @@
 
 </div>
 
-💡 I specialize in **data analysis, dashboards, machine learning, and automation**.  
-🚀 I enjoy solving real-world problems by transforming raw data into **actionable insights** and building intelligent systems.  
+💡 I specialize in **automation, RAG, machine learning, LLMs, and data analysis**.  
+🚀 I enjoy solving real-world problems by transforming raw data into **actionable insights** and **building intelligent systems**.  
 🌱 Currently exploring, **OpenAI APIs**, and **real-time data pipelines**.  
 💬 Ask me about anything related to **Python, ML models, LLMs, or AI Automation**.
 
