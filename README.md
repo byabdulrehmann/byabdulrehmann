@@ -1,81 +1,90 @@
- <div align="center">
+<div align="center">
 
- # Hi, I'm Abdul Rehman 👋    
+# Hi, I'm Abdul Rehman 👋
 
-🎓 **AI Engineer | AI Automation | Data Scientist | Ex-Data Analyst**  
+**AI Engineer | AI Automation | Data Scientist | Ex-Data Analyst**
 
 </div>
 
-💡 I specialize in **automation, RAG, machine learning, LLMs, and data analysis**.  
-🚀 I enjoy solving real-world problems by transforming raw data into **actionable insights** and **building intelligent systems**.  
-🌱 Currently exploring, **OpenAI APIs**, and **real-time data pipelines**.  
-💬 Ask me about anything related to **Python, ML models, LLMs, or AI Automation**.
+I build LLM-powered applications, automation and machine-learning systems, and the
+full-stack products around them. I enjoy turning raw data into actionable insights and
+building intelligent software that solves real problems.
 
+- 🔭 Currently building **AI-assisted products with Next.js, TypeScript and Python**
+- 🌱 Exploring **OpenAI and Anthropic APIs**, AI agents and real-time data pipelines
+- 💬 Ask me about **Python, ML models, LLMs or AI automation**
+
+## 🚀 Featured projects
+
+### [AI Trading Journal](https://github.com/byabdulrehmann/AI-Trading-Journal)
+A local-first trading journal and performance platform for MetaTrader 5 traders: trade log,
+read-only MT5 sync, analytics, P&L calendar, playbooks, backtesting, trade replay and an AI
+coach grounded in the trader's own records.
+`Next.js` `TypeScript` `React` `SQLite` `Anthropic API` `Playwright`
+
+### [Siraj — Salah Tracker](https://github.com/byabdulrehmann/salah-tracker) · [Live](https://salah-tracker-psi.vercel.app)
+A private prayer and Tahajjud tracker with streaks, a monthly view and a rule-based
+consistency forecast, on Supabase with Row Level Security.
+`Next.js` `TypeScript` `Supabase` `PostgreSQL`
+
+### [CodeDrop Labs Website](https://github.com/byabdulrehmann/codedroplabs) · [Live](https://v0-codedroplabs.vercel.app)
+The agency website for CodeDrop Labs, with an animated hero, services, showcase, a
+server-validated contact form and an FAQ assistant.
+`Next.js` `TypeScript` `Tailwind CSS` `Radix UI`
+
+### [Movie Recommender System](https://github.com/byabdulrehmann/recommender_system)
+A content-based recommender on the TMDB 5000 dataset using bag-of-words features,
+stemming and cosine similarity.
+`Python` `pandas` `scikit-learn` `NLTK`
 
 ## 🎯 Expertise
 
-- 🤖 **AI Engineer** – developing LLM-powered applications, AI agents, and intelligent software
-- ⚡ **AI Automation** – building workflow automations with OpenAI APIs, n8n, FastAPI, and Python
-- 🧠 **Machine Learning** – training and deploying models for real-world AI applications
-- 📊 **Data Analytics** – extracting meaningful insights from structured and unstructured data
-- 📈 **Business Intelligence** – creating interactive dashboards and KPI reports using Power BI and Python 
+- 🤖 **AI Engineering** – LLM-powered applications, AI agents and intelligent software
+- ⚡ **AI Automation** – workflow automation with OpenAI APIs, n8n, FastAPI and Python
+- 🧠 **Machine Learning** – training and deploying models for real-world applications
+- 🌐 **Full-Stack Development** – Next.js, React and TypeScript products with SQL databases
+- 📊 **Data Analytics & BI** – insights, interactive dashboards and KPI reports with Power BI and Python
 
+## 🛠️ Tech stack
 
-## 🛠️ Tech Stack
+**Languages:** Python · TypeScript · JavaScript · SQL · R · HTML · CSS
 
-**👨‍💻 Languages:**  
-Python | SQL | R | n8n | JavaScript | HTML | CSS   
+**AI / ML:** Pandas · NumPy · Scikit-learn · TensorFlow · PyTorch · Keras · OpenCV · OpenAI API · Anthropic API · Matplotlib · Seaborn
 
-**📚 Libraries & Frameworks:**  
-Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn  
-TensorFlow | PyTorch | Keras | OpenCV | OpenAI API | Playwright
-FastAPI | Flask | Streamlit | BeautifulSoup | Selenium | Scrapy  
+**Web & automation:** Next.js · React · Tailwind CSS · FastAPI · Flask · Streamlit · n8n · Playwright · Selenium · Scrapy · BeautifulSoup
 
-**🗄️ Databases:**  
- MySQL | Postgre SQL | Supabase
+**Databases:** PostgreSQL · MySQL · SQLite · Supabase
 
-**🛠️ Tools:**  
- Jupyter | Google Colab | VS Code | Linux | Git | Kaggle
+**Tools:** Git · Jupyter · Google Colab · VS Code · Linux · Vercel · Power BI · Kaggle
 
+## 📂 Other work
 
-## 🌟 Highlighted Projects
+**VISE – Video Intelligence & Segmentation Engine** (Final Year Project)
+An unsupervised deep-learning framework for video object segmentation that detects and
+segments moving objects without labelled data, for autonomous vehicles, smart surveillance
+and scalable video analytics.
 
-🚀 **[VISE – Video Intelligence & Segmentation Engine](#)**  
-- Proud to launch **VISE**, our research-based **Final Year Project**: an **unsupervised deep learning framework** for Video Object Segmentation.  
-- Enables machines to automatically detect and segment moving objects in videos **without labeled data**.  
-- Applications: **autonomous vehicles, smart surveillance, scalable video analytics**.  
-- Focus Areas: *Unsupervised Learning, Spatio-temporal Visual Understanding, Video Object Segmentation.*  
+**COVID-19 CT Scan Classification**
+A deep-learning model classifying chest CT scans for SARS-CoV-2, using CNN and transfer
+learning architectures (ResNet, VGG16, EfficientNet), distinguishing COVID-19 from
+pneumonia and healthy cases.
 
-📊 **[Data Dashboard for Sales Insights](#)**  
-- Designed and deployed an **interactive Power BI dashboard** to help businesses uncover actionable insights from sales and customer data.  
-- Visualized **key performance indicators (KPIs)** like revenue trends, customer demographics, and product performance.  
-- Integrated multiple data sources (Excel, SQL databases, APIs) into a **single unified dashboard**.     
+**Sales Insights Dashboard**
+An interactive Power BI dashboard combining Excel, SQL and API sources to track revenue
+trends, customer demographics and product performance.
 
-⚡ **[Website Automation Scripts](#)**  
-- Automated repetitive online tasks:  
-- **Labubu Mass Buying Bot** – automates checkout process for limited items.  
-- **E-commerce Scraper** – tracks product availability and prices.  
-- **Auto Login & Form Filling Scripts** – reduce manual work and increase efficiency.  
+**Interactive COVID-19 Dashboard**
+A dashboard for monitoring cases, vaccinations and recoveries worldwide from live APIs,
+built with Python (Pandas, Matplotlib, Plotly) and Power BI.
 
-💉 **[COVID-19 CT Scan Classification](#)**  
-- Developed a **deep learning model** to classify chest CT scans for detecting SARS-CoV-2 infection.  
-- Implemented **CNN and Transfer Learning architectures** (ResNet, VGG16, EfficientNet).  
-- Achieved strong performance in distinguishing COVID-19 from pneumonia and healthy cases.  
-- Potential applications: **medical diagnosis support, early screening in hospitals, and scalable AI-based healthcare solutions.**    
+**Web automation scripts**
+E-commerce scrapers that track product availability and prices, automated checkout for
+limited releases, and login and form-filling automation.
 
-🌍 **[Interactive COVID-19 Dashboard](#)**  
-- Created a **real-time interactive dashboard** for monitoring COVID-19 cases worldwide.  
-- Integrated **live APIs** for case numbers, vaccinations, and recovery data.  
-- Built with **Python (Pandas, Matplotlib, Plotly)** and **Power BI** for interactive visualizations.   
-
-
-## 🤝 Let’s Connect!
+## 🤝 Let's connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/abdulrehmaan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:abdulrehman11403@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/byabdulrehmann" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/abdulrehmaan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://abdulrehmann-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:abdulrehman11403@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-
-⭐ From [Abdul Rehman](https://github.com/byabdulrehmann)
