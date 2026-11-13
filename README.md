@@ -17,7 +17,7 @@ building intelligent software that solves real problems.
 ## 🚀 Featured projects
 
 ### [VISE – Video Intelligence & Segmentation Engine](https://github.com/byabdulrehmann/UVOS-Unsupervised-video-object-segmentation)
-Final Year Project, with an accompanying research paper. An unsupervised video object
+Final Year Project; research paper in preparation. An unsupervised video object
 segmentation framework that finds and segments the primary moving objects in a video without
 labelled masks, using contrastive learning, temporal consistency and optical-flow guidance
 (RAFT), evaluated on DAVIS 2016, FBMS and YouTube-Objects.
