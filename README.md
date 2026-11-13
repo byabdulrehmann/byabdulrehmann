@@ -1,8 +1,8 @@
 <div align="center">
 
-# Abdul Rehman
+# Hi, I'm Abdul Rehman
 
-### AI Engineer
+### AI Engineer · ML · Data Science · FDE
 
 **LLMs & AI Agents · Machine & Deep Learning · Computer Vision · AI Automation**
 
