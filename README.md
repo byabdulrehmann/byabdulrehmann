@@ -77,6 +77,20 @@ downloading segmented results.
 
 `Python` `PyTorch` `Computer Vision` `Contrastive Learning` `Optical Flow (RAFT)` `CBAM`
 
+### TradBot-I: Real-Time Voice AI Assistant
+**[Repository](https://github.com/byabdulrehmann/TradBot-I)** · **[Watch the demo](https://github.com/byabdulrehmann/TradBot-I/blob/main/docs/jarvis-demo.mp4)**
+
+A real-time voice AI desktop assistant built on the Gemini Live API that can hear, see, speak
+and control the computer on Windows, macOS and Linux. A holographic 3D face lip-syncs its
+replies, and the assistant handles web search, files, apps, reminders and system settings
+through a plugin system, with persistent memory, undo and a confirmation gate for risky
+actions. Includes a read-only MetaTrader 5 market monitor with live prices, spreads and
+trend context.
+
+<p align="center"><img src="https://raw.githubusercontent.com/byabdulrehmann/TradBot-I/main/docs/screenshot.png" alt="TradBot-I HUD" width="85%" /></p>
+
+`Python` `Gemini Live API` `Real-time Audio` `AI Agents` `PyQt6` `MetaTrader 5`
+
 ### AI Trading Journal
 **[Repository](https://github.com/byabdulrehmann/AI-Trading-Journal)**
 
