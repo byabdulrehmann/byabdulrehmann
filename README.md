@@ -16,6 +16,13 @@ building intelligent software that solves real problems.
 
 ## 🚀 Featured projects
 
+### [VISE – Video Intelligence & Segmentation Engine](https://github.com/byabdulrehmann/UVOS-Unsupervised-video-object-segmentation)
+Final Year Project, with an accompanying research paper. An unsupervised video object
+segmentation framework that finds and segments the primary moving objects in a video without
+labelled masks, using contrastive learning, temporal consistency and optical-flow guidance
+(RAFT), evaluated on DAVIS 2016, FBMS and YouTube-Objects.
+`Python` `PyTorch` `Computer Vision` `Contrastive Learning` `Optical Flow`
+
 ### [AI Trading Journal](https://github.com/byabdulrehmann/AI-Trading-Journal)
 A local-first trading journal and performance platform for MetaTrader 5 traders: trade log,
 read-only MT5 sync, analytics, P&L calendar, playbooks, backtesting, trade replay and an AI
@@ -58,11 +65,6 @@ stemming and cosine similarity.
 **Tools:** Git · Jupyter · Google Colab · VS Code · Linux · Vercel · Power BI · Kaggle
 
 ## 📂 Other work
-
-**VISE – Video Intelligence & Segmentation Engine** (Final Year Project)
-An unsupervised deep-learning framework for video object segmentation that detects and
-segments moving objects without labelled data, for autonomous vehicles, smart surveillance
-and scalable video analytics.
 
 **COVID-19 CT Scan Classification**
 A deep-learning model classifying chest CT scans for SARS-CoV-2, using CNN and transfer
