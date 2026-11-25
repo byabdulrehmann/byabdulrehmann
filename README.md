@@ -78,11 +78,11 @@ A voice AI desktop assistant on the Gemini Live API that can hear, see, speak an
 > **Skills:** AI agents · Real-time audio streaming · Tool calling · Desktop automation · Plugin architecture · Safety guardrails · Desktop UI
 
 ### 📊 AI Trading Journal
-**[Repository](https://github.com/byabdulrehmann/AI-Trading-Journal)**
+**[Showcase & screenshots](https://github.com/byabdulrehmann/jarvis-trading-journal)** · Source is private
 
 A performance-analytics platform with an **LLM coach that answers only from the user's own records** and cites the trades behind each answer. Pluggable model providers with in-chat switching, user-controlled memory, and a privacy setting that decides exactly what reaches the model. Built secure: encrypted credentials, per-user data isolation and end-to-end tests.
 
-<p align="center"><img src="https://raw.githubusercontent.com/byabdulrehmann/AI-Trading-Journal/main/docs/screenshots/dashboard-light.png" alt="AI Trading Journal dashboard" width="85%" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/byabdulrehmann/jarvis-trading-journal/main/screenshots/dashboard-light.png" alt="AI Trading Journal dashboard" width="85%" /></p>
 
 > **Skills:** LLM integration · Grounded answers (RAG) · Data analytics · Full-stack development · Authentication & security · End-to-end testing (Playwright)
 
