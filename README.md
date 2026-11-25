@@ -80,7 +80,7 @@ A voice AI desktop assistant on the Gemini Live API that can hear, see, speak an
 ### 📊 AI Trading Journal
 **[Showcase & screenshots](https://github.com/byabdulrehmann/jarvis-trading-journal)** · Source is private
 
-A performance-analytics platform with an **LLM coach that answers only from the user's own records** and cites the trades behind each answer. Pluggable model providers with in-chat switching, user-controlled memory, and a privacy setting that decides exactly what reaches the model. Built secure: encrypted credentials, per-user data isolation and end-to-end tests.
+A performance-analytics platform with an **LLM coach that answers only from the user's own records** and cites the trades behind each answer. Free to use: the coach can run **entirely in the browser** (WebGPU, no API key) or on the user's own free **Gemini or Groq** key, with Anthropic as an option and in-chat model switching. It keeps user-controlled memory and a privacy setting that decides exactly what reaches the model. Built secure: encrypted credentials, per-user data isolation and end-to-end tests.
 
 <p align="center"><img src="https://raw.githubusercontent.com/byabdulrehmann/jarvis-trading-journal/main/screenshots/dashboard-light.png" alt="AI Trading Journal dashboard" width="85%" /></p>
 
